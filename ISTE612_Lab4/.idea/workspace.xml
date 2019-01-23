@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2301818-b30d-4a7b-8a59-cf5eef962d52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../DBMS/HW1 Part B 2175.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DBMS/HW1 Part B 2175.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ScoopSoup/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ScoopSoup/src/main/java/com/scoopsoup/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ScoopSoup/src/main/java/com/scoopsoup/controllers/ScoopSearchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster.xcodeproj/project.xcworkspace/xcuserdata/raheelshah.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster.xcodeproj/xcuserdata/raheelshah.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster.xcodeproj/xcuserdata/raheelshah.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster/774Monster.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster/Monster.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/774Monster/774Monster/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774.xcodeproj/project.xcworkspace/xcuserdata/raheelshah.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774.xcodeproj/xcuserdata/raheelshah.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Assets.xcassets/cloud.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Assets.xcassets/cloud.imageset/cloud_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Assets.xcassets/cloud.imageset/cloud_small@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Assets.xcassets/cloud.imageset/cloud_small@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AdaptiveWeather774/AdaptiveWeather774/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774.xcodeproj/project.xcworkspace/xcuserdata/raheelshah.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774.xcodeproj/xcuserdata/raheelshah.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Animate774/Animate774/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AskMyQuest-Final Project/.Backup of AskMyQuest-Final Project.docx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AskUP-Final Project/.Backup of AskUP-Final Project.docx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774.xcodeproj/project.xcworkspace/xcuserdata/raheelshah.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774.xcodeproj/xcuserdata/raheelshah.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/AutoLayoutExample774/AutoLayoutExample774/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.AskMyQuest-Final Project.docx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.AskUP-Final Project.docx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.Classmate-FinalAppProposal-Raheel.docx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.Classmate-FinalAppProposal.docx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.ClassmateLogo.sketch.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.Deliverables.docx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.Icon@3x (1).zip.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.Icon@3x.zip.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/.sketch-49.3-51167.zip.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Artboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Artboard@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Artboard@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Group@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Group@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/App Icon/Icon@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/AskMyQuest.sketch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/Background@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/Background@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/Classmate Application Deliverables.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/Classmate Application Deliverables/Backup of Classmate Application Deliverables.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/Classmate-FinalAppProposal-Raheel.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/Classmate - Stuff/classmate-dcb1b-export.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Assets.xcassets/first.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Assets.xcassets/first.imageset/first.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Assets.xcassets/second.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Assets.xcassets/second.imageset/second.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/FirstViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Landmark.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/Landmarks.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/SecondViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MobileAppDevelopment/FavPlacesPractice774/FavPlacesPractice774/SecondViewDetailVC.swift" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1153142544">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="802" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="802" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/raheel/lab/NBClassifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="122" column="56" lean-forward="true" selection-start-line="122" selection-start-column="56" selection-end-line="122" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/raheel/lab/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-673">
+              <caret line="12" column="70" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/raheel/lab/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>classTokenCounts</find>
+      <find>testNeg</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/raheel/lab/Constants.java" />
+        <option value="$PROJECT_DIR$/src/com/raheel/lab/NBClassifier1.java" />
+        <option value="$PROJECT_DIR$/src/com/raheel/lab/Parser.java" />
+        <option value="$PROJECT_DIR$/src/com/raheel/lab/NBClassifier.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ISTE612_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ISTE612_Lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ISTE612_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ISTE612_Lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ISTE612_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ISTE612_Lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542672181290" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/com/raheel/lab" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.raheel.lab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="NBClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raheel.lab.NBClassifier" />
+      <module name="ISTE612_Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raheel.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NBClassifier" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2301818-b30d-4a7b-8a59-cf5eef962d52" name="Default Changelist" comment="" />
+      <created>1542650936830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542650936830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973376" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/raheel/lab/NBClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/raheel/lab/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train/neg/cv000_29416.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="40" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train/pos/cv007_4968.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" lean-forward="true" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test/neg/cv901_11934.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test/pos/cv913_29252.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/raheel/lab/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-673">
+          <caret line="12" column="70" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/raheel/lab/NBClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="122" column="56" lean-forward="true" selection-start-line="122" selection-start-column="56" selection-end-line="122" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
